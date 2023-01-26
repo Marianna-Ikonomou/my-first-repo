@@ -8,5 +8,6 @@ This is my first Git on GitHub
 - Commit and Hash
 - Markdownd Language
 
+![image](https://user-images.githubusercontent.com/122877765/214817908-c7102e3f-2377-4085-90be-e796b99a28dd.png)
 
-![Alt text](https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco.gif)
+
