@@ -9,4 +9,4 @@ This is my first Git on GitHub
 - Markdownd Language
 
 
-![image](https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco.gif)
+![Alt text](https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco.gif)
